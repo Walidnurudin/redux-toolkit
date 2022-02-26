@@ -1,0 +1,8 @@
+.home__wrapper {
+  display: flex;
+  alignitems: center;
+  margin-top: 50px;
+  justify-content: center;
+  width: 100%;
+  gap: 100px;
+}

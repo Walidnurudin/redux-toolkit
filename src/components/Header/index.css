@@ -1,0 +1,25 @@
+.header__wrapper {
+  padding: 20px;
+  width: 100%;
+  background-color: #06b6d4;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.header__link {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+.header__link:hover {
+  color: black;
+  font-size: 18px;
+  font-weight: normal;
+  background-color: beige;
+  padding: 10px;
+  border-radius: 10px;
+}
